@@ -91,7 +91,3 @@ Both values are converted to `BigNumber` for precise calculations and displayed 
 
 - **Invalid JSON**: If the JSON string is not properly formatted, an error message will be displayed: `Invalid JSON string provided`.
 - **Missing or Invalid Fields**: If the expected fields (e.g., `amount` or `transactionFee`) are not present, the code will throw an error when attempting to parse or convert those values.
-
-## Contributing
-
-Feel free to open issues or pull requests for any enhancements or bug fixes you might find. Contributions are welcome!
