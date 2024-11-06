@@ -23,15 +23,6 @@ This project demonstrates how to parse a JSON string containing large integers a
 npm install
 ```
 
-```
-
-This will install the following libraries:
-
-- `json-bigint`: A library to handle large JSON numbers without losing precision.
-- `bignumber.js`: A library to handle arbitrary precision floating-point arithmetic.
-
-```
-
 ## Usage
 
 1. Open `index.js` or the file where the code resides.
